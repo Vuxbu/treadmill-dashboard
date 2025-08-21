@@ -1,0 +1,8 @@
+{
+  "nextSteps": [
+    "Enhance single-category scan modal with animated device discovery (match Home SCAN modal).",
+    "Backend pairing simulation (Python) to simulate Bluetooth device discovery.",
+    "Implement workout modes UI.",
+    "Expand Settings with HR zone config, .fit loader, .gpx/.tcx course loader."
+  ]
+}
